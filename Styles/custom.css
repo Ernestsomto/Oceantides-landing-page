@@ -1,0 +1,36 @@
+
+
+body {
+    background-color: ghostwhite;
+    font-size: 1.2rem;
+    font-family: 'Urbanist', sans-serif;
+}
+
+
+
+.animation-card  {
+    max-width: 100%;
+}
+
+.carousel-item img {
+    height: 100%;
+    width: 100%;
+}
+
+.card img {
+    height: 25vh;
+    width: 100%
+}
+
+
+.cardmain:hover{
+    transform: scale(0.98);
+}
+
+
+@media(min-width: 768px) {
+    .input-wdth {
+        width: 50%;
+    }
+
+}
