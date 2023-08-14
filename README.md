@@ -2,7 +2,7 @@
 This is an Imaginary website for oceantide studios, a photography and motion studio that involves in game development, movies and photography.
 
 ### Links
-- Live Site URL: [glitch](https://polydactyl-tested-latency.glitch.me)
+- Live Site URL: [glitch](https://sleet-future-crabapple.glitch.me)
 
 
 ## Author
